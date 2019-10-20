@@ -6,12 +6,12 @@ On GitHub, you can make to another person's repository and suggest that they acc
 ![](img/1.png)
 2. [Install GitHub Desktop.](https://desktop.github.com)
 ![](img/2.png)
-3. **Forking the repository:** Go to the repository you want to contribute to (for example, <https://github.com/walnutprogramming/Directions>). Click on "*Fork*" in the top right. 
+3. **Forking the repository:** Go to the repository you want to contribute to (for example, <https://github.com/walnutprogramming/Directions>). Click on "*Fork*" in the top right. (**Forking** a repo makes a copy on GitHub so that you have your own repo on GitHub.)
 ![](img/3.png)
-4. **Cloning your forked repository:** In your fork, click on the green "*Clone or download*" button and click on "*Open in Desktop*". 
+4. **Cloning your forked repository:** In your fork, click on the green "*Clone or download*" button and click on "*Open in Desktop*". (**Cloning** a repo makes a copy of your forked repo on your computer so that you can make changes on your computer and send them back to your fork.) 
 ![](img/4.png)
 ![](img/4b.png)
-5. **Creating a new branch for your changes:** In GitHub Desktop, click on "*Branch*", then type in a name for your new **branch**. For example, if you're fixing a typo, you might name the branch "`typo-fix`". 
+5. **Creating a new branch for your changes:** In GitHub Desktop, click on "*Branch*", then type in a name for your new **branch**. For example, if you're fixing a typo, you might name the branch "`typo-fix`". (A **branch** allows you to keep your changes separate. `master` is the name of the default branch that shows the current state of your project, but if you want to make a change, you should make a new branch so that it can be merged into `master`.)
 ![](img/5.png)
 6. **Making the changes:** Open a text editor and make the changes you want to make to the repository. (If you're not sure what you can do to help, you can look in the "*Issues*" tab on GitHub to see what problems need to be fixed.)
 7. **Committing your changes:** Now you can make a **commit** on the repository on your computer. In GitHub Desktop, you should see the files that you changed checked in the left sidebar. In the bottom of the left sidebar, type in a summary and description of the changes you made. 
