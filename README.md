@@ -13,5 +13,6 @@ On GitHub, you can make to another person's repository and suggest that they acc
 9. **Publish your branch back to your fork or push to your fork:** In GitHub Desktop, click on "Publish branch" in the top bar. If you've already published the branch, you can press "Push origin" to add your new changes to the branch on GitHub. 
 10. **Creating a pull request:** Click on "Create Pull Request" in GitHub Desktop (or go to your fork in GitHub, and click "New pull request"). Type in a description of the changes you made so that others can decide whether to accept your changes. 
 11. **Wait for others to comment on your pull request.** If you want to make changes to your pull request, there are instructions on how to do that on the page for the pull request. 
+12. **(Optional) Clean up your forked repo:** Once your pull request has been merged, you can update your branch by following [these instructions from a StackOverflow answer](https://stackoverflow.com/questions/46110615/how-to-sync-your-forked-repo-with-original-repo-in-github-desktop/53538020#53538020).
 
 This month, if you make 4 pull requests, you can get a free T-Shirt from Hacktoberfest. Sign up [here](https://hacktoberfest.digitalocean.com/).
