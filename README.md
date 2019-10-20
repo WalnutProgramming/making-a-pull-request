@@ -11,7 +11,7 @@ On GitHub, you can make to another person's repository and suggest that they acc
 7. **Committing your changes:** Now you can make a **commit** on the repository on your computer. In GitHub Desktop, you should see the files that you changed checked in the left sidebar. In the bottom of the left sidebar, type in a summary and description of the changes you made. 
 8. **(Optional) Make more changes:** If there's more stuff you want to change before you submit your pull request, you can still change more files and commit again (steps 6-7).
 9. **Publish your branch back to your fork or push to your fork:** In GitHub Desktop, click on "Publish branch" in the top bar. If you've already published the branch, you can press "Push origin" to add your new changes to the branch on GitHub. 
-10. **Creating a pull request:** Go to your fork in GitHub, and click "New pull request". Type in a description of the changes you made so that others can decide whether to accept your changes. 
+10. **Creating a pull request:** Click on "Create Pull Request" in GitHub Desktop (or go to your fork in GitHub, and click "New pull request"). Type in a description of the changes you made so that others can decide whether to accept your changes. 
 11. **Wait for others to comment on your pull request.** If you want to make changes to your pull request, there are instructions on how to do that on the page for the pull request. 
 
 This month, if you make 4 pull requests, you can get a free T-Shirt from Hacktoberfest. Sign up [here](https://hacktoberfest.digitalocean.com/).
