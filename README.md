@@ -28,4 +28,4 @@ On GitHub, you can make to another person's repository and suggest that they acc
 ![](img/11.png)
 12. **(Optional) Clean up your forked repo:** Once your pull request has been merged, you can update your branch by following [these instructions from a StackOverflow answer](https://stackoverflow.com/questions/46110615/how-to-sync-your-forked-repo-with-original-repo-in-github-desktop/53538020#53538020).
 
-This month, if you make 4 pull requests, you can get a free T-Shirt from Hacktoberfest. Sign up [here](https://hacktoberfest.digitalocean.com/).
+In October, if you make 4 pull requests, you can get a free T-Shirt from Hacktoberfest. Sign up [here](https://hacktoberfest.digitalocean.com/).
