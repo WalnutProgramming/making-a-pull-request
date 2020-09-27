@@ -1,6 +1,6 @@
 # How to Make a Pull Request With GitHub Desktop
 
-On GitHub, you can make to another person's repository and suggest that they accept your changes. This is called making a pull request. The easiest way to do this is using an app called GitHub Desktop. 
+On GitHub, you can make changes to another person's repository and suggest that they accept your changes. This is called making a pull request. The easiest way to do this is using an app called GitHub Desktop. 
 
 1. [Make a GitHub account.](https://github.com/) 
 ![](img/1.png)
