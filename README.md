@@ -28,6 +28,10 @@ On GitHub, you can make changes to another person's repository and suggest that 
 ![](img/11.png)
 12. **(Optional) Clean up your forked repo:** Once your pull request has been merged, you can update your branch by following [these instructions from a StackOverflow answer](https://stackoverflow.com/questions/46110615/how-to-sync-your-forked-repo-with-original-repo-in-github-desktop/53538020#53538020).
 
-In October, if you make 4 pull requests, you can get a free T-Shirt from Hacktoberfest. Sign up [here](https://hacktoberfest.digitalocean.com/).
+## Hacktoberfest
+
+In October, if you make 4 pull requests that are made in repositories labeled 'hacktoberfest' and approved, you can get a free T-Shirt from Hacktoberfest. Sign up [here](https://hacktoberfest.digitalocean.com/). ([More details about rules here.](https://hacktoberfest.digitalocean.com/hacktoberfest-update))
+
+**It is very important that your pull requests are actually useful changes. Don't spam.** Maintainers of open source projects are (the vast majority of the time) not paid, and they are using their own time to create projects that the community depends on. They've been getting a lot of spam this month. Just make sure your contribution is actually doing something useful. (If you're not sure whether a contribution would be useful for any WalnutProgramming repository, just ask me. Or just create the PR and we'll only accept it if it's useful.)
 
 If there's anything unclear about these instructions, feel free to make a pull request on this repository to make these instructions easier to follow.
